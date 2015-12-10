@@ -1,0 +1,28 @@
+name: evg247
+favicon: null
+layout_spectrum: 0.38413244066759944
+typography_spectrum: 0.16100784903392196
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9775810316205025
+  lightness: 0.17381680919788778
+  saturation: 0.3550795540213585
+  rhythmicContrast: 0.2795254404190928
+purpose: []
